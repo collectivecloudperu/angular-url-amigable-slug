@@ -1,0 +1,7 @@
+.contenedorformulario {
+	margin-top: 60px;
+}
+
+input[readonly]{
+    background-color:rgb(239, 238, 238);
+}
