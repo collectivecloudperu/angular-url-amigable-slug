@@ -1,2 +1,2 @@
-# angular-url-amigable-slug
-Como Crear URLs Amigables (Slug) con Angular
+# Como Crear URLs Amigables (Slug) con Angular
+Tutorial: 
